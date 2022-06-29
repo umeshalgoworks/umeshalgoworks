@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @umeshalgoworks
 - 👀 I’m interested in ... UI/UX development.
-- 🌱 I’m currently learning ... React Native.
 - 📫 How to reach me ...
 
 <!---
